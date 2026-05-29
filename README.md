@@ -1,158 +1,130 @@
+
+Project Title
+
 🛍️ Customer Shopping Behavior Analysis
 
 📊 A Complete Data Analytics Project Using Python, SQL & Power BI
 
-📌 Project Overview
+Project Overview
 
-This project focuses on analyzing customer shopping behavior to discover meaningful business insights and trends.
-The project covers the complete data analytics workflow including:
+This project analyzes customer shopping behavior using Python, SQL, and Power BI to uncover business insights and customer purchasing patterns. The workflow includes data cleaning, exploratory data analysis (EDA), SQL querying, dashboard creation, reporting, and presentation preparation.
 
-✅ Data Loading
-✅ Data Cleaning
-✅ Exploratory Data Analysis (EDA)
-✅ SQL Query Analysis
-✅ Power BI Dashboard Creation
-✅ Business Reporting & Presentation
+The goal of this project is to transform raw shopping data into meaningful insights that support data-driven business decisions.
 
-The objective is to transform raw shopping data into actionable insights for better business decision-making.
+Dataset Information
 
-🗂️ Dataset Information
+The dataset contains customer shopping-related information, including:
 
-The dataset includes customer shopping-related data such as:
+Customer demographics
+Product categories
+Purchase history
+Payment methods
+Shopping frequency
+Ratings and reviews
 
-👤 Customer Demographics
-🛒 Purchase History
-📦 Product Categories
-💳 Payment Methods
-⭐ Product Ratings
-📈 Shopping Frequency
+Dataset Format: CSV / Excel / SQL Database
 
-📁 Dataset Format: CSV / Excel / SQL Database
-
-🛠️ Tools & Technologies
-👨‍💻 Programming & Analysis
-🐍 Python
-📊 Pandas
-🔢 NumPy
-📉 Matplotlib
-📈 Seaborn
-🗄️ Database
-PostgreSQL
-MySQL
-SQL Server
-📊 Data Visualization
+Tools & Technologies Used
+Programming & Analysis
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Database
+PostgreSQL / MySQL / SQL Server
+Visualization
 Power BI
-📝 Reporting
+Reporting & Presentation
 Canva
 Microsoft PowerPoint
-🔄 Project Workflow
-1️⃣ Data Loading
+Project Workflow
+1. Data Loading
 Imported dataset into Python
 Connected SQL database
 Loaded data for analysis
-2️⃣ Data Cleaning
+2. Data Cleaning
+Removed duplicate records
+Handled missing values
+Fixed inconsistent data types
+Standardized column names
+3. Exploratory Data Analysis (EDA)
 
-✔️ Removed duplicate records
-✔️ Handled missing values
-✔️ Corrected data types
-✔️ Standardized column names
+Performed analysis to identify:
 
-3️⃣ Exploratory Data Analysis (EDA)
-
-Performed analysis on:
-
-📈 Sales Trends
-🛍️ Customer Buying Patterns
-💰 Revenue Analysis
-📦 Product Performance
-👥 Customer Segmentation
-4️⃣ SQL Analysis
+Customer buying behavior
+Sales trends
+Product performance
+Revenue insights
+Customer segmentation
+4. SQL Analysis
 
 Executed SQL queries for:
 
-🔝 Top-Selling Products
-📅 Monthly Revenue Trends
-👤 Customer Purchase Frequency
-📊 Product Category Performance
-💵 Revenue Aggregation
-5️⃣ Power BI Dashboard
+Top-selling products
+Monthly revenue analysis
+Customer purchase frequency
+Product category performance
+Sales aggregation
+5. Dashboard Development
 
-Created an interactive dashboard containing:
+Created an interactive Power BI dashboard featuring:
 
-✨ KPI Cards
-📈 Revenue Trends
-🛒 Sales Overview
-👥 Customer Insights
-🌍 Regional Analysis
-🎛️ Interactive Filters & Slicers
-
-6️⃣ Reporting & Presentation
-📄 Business Insights Report
-🎨 Presentation Slides using Canva
-📢 Final Findings & Recommendations
-📊 Dashboard Highlights
-Feature	Description
-💰 Total Sales	Overall revenue generated
-👥 Customers	Customer segmentation insights
-📈 Revenue Trends	Monthly & yearly trends
-📦 Product Analysis	Best-performing categories
-🌍 Regional Analysis	Area-wise sales performance
-🔍 Key Insights
-
-✅ Identified top-performing products
-✅ Analyzed customer purchasing behavior
-✅ Detected seasonal sales trends
-✅ Generated business recommendations
-✅ Improved understanding of customer patterns
-
-📁 Project Structure
-📦 Customer-Shopping-Behavior-Analysis
-│
-├── 📂 data
-├── 📂 notebooks
-├── 📂 sql
-├── 📂 dashboard
-├── 📂 reports
-├── 📂 presentation
-│
-├── 🐍 analysis.py
-└── 📄 README.md
-🚀 How to Run the Project
-1️⃣ Clone the Repository
+Sales KPIs
+Revenue trends
+Customer insights
+Product analysis
+Interactive filters and slicers
+6. Reporting & Presentation
+Created business insights report
+Designed presentation slides using Canva
+Summarized findings and recommendations
+Dashboard Features
+Total Sales Overview
+Customer Segmentation
+Monthly Revenue Trends
+Best-Selling Products
+Regional Performance Analysis
+Interactive Visual Filters
+Key Insights
+Identified high-performing product categories
+Analyzed customer purchasing patterns
+Detected seasonal sales trends
+Generated actionable business recommendations
+Improved understanding of customer behavior
+Project Structure
+├── data/
+├── notebooks/
+├── sql/
+├── dashboard/
+├── reports/
+├── presentation/
+├── analysis.py
+└── README.md
+How to Run the Project
+Clone Repository
 git clone <repository-link>
-2️⃣ Install Required Libraries
+Install Required Libraries
 pip install pandas numpy matplotlib seaborn
-3️⃣ Run Python Script
+Run Python Analysis
 python analysis.py
-4️⃣ Open Power BI Dashboard
+Open Dashboard
+Open the .pbix file using Power BI Desktop
+Execute SQL Queries
+Run SQL scripts in PostgreSQL/MySQL/SQL Server
+Results
 
-📊 Open the .pbix file using Power BI Desktop
-
-5️⃣ Execute SQL Queries
-
-🗄️ Run SQL scripts in PostgreSQL / MySQL / SQL Server
-
-📌 Results
-
-This project successfully transformed raw shopping data into meaningful business insights using:
-
-🐍 Python Analytics
-🗄️ SQL Queries
-📊 Power BI Dashboards
-📑 Business Reporting
-🔮 Future Improvements
-
-🚀 Add Machine Learning Models
-🚀 Deploy Dashboard Online
-🚀 Automate Reporting Pipeline
-🚀 Integrate Real-Time Data
+This project successfully converted raw customer shopping data into valuable business insights through data analysis, SQL querying, and interactive dashboard visualization.
+Future Improvements
+Add machine learning models for prediction
+Deploy dashboard online
+Automate reporting process
+Integrate real-time data sources
 
 👨‍💻 Author
 Dhanshri Taral
 
-📧dhanshritaral14@gmail.com
+📧 dhanshritaral14@gmail.com
 🔗 https://www.linkedin.com/in/dhanshri-taral-854229400
 
-
-Sign up for free# data_customer_behavior_
-data analytics project showcasing customer behavior analysis using python, power Bi and sql 
+⭐ If you like this project, give it a star on GitHub!
